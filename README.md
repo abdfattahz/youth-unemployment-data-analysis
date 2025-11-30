@@ -4,7 +4,7 @@ This project analyzes **Youth Unemployment Trends in Malaysia from 2016-2025** a
 
 If you prefer a written case study, the full phase-by-phase report is available in the root of this repo as:
 
-![**`Youth_Unemployment_Data_Analysis_Phase_1_to_6.pdf`**](Youth_Unemployment_Data_Analysis_Phase_1_to_6.pdf)
+![Youth_Unemployment_Data_Analysis_Phase_1_to_6.pdf](Youth_Unemployment_Data_Analysis_Phase_1_to_6.pdf)
 
 ---
 
@@ -208,4 +208,5 @@ The PDF (`05_Share/Youth_Unemployment_Data_Analysis_Phase_1_to_6.pdf`) summarise
 
 * Structuring a project using the **Ask → Prepare → Process → Analyze → Share** framework
 * Organising data, documentation and visuals so others can reproduce the work
+
 * Using formulas (`YEAR`, `AVERAGEIF`, `AVERAGEIFS`) and pivot tables as a lightweight analytics stack
