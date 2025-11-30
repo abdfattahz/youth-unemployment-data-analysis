@@ -88,10 +88,8 @@ This project is intentionally Sheet-only to show what I can do with just a sprea
   youth_unemployment_2016_2025.csv          # raw data from OpenDOSM
   Youth_Unemployment_Data_Analysis_log.md   # simple download/check log
 
-03_Process/
-  process_notes.md             # notes on creating Cleaned_Data, adding Year, formatting
-
 04_Analyze/
+  Avg_Youth_Unemployment_by_COVID_Period.png
   PivotTable_Rate_15_24.png
   PivotTable_Rate_15_30.png
   PivotTable_Rate_Combined.png
@@ -104,7 +102,8 @@ This project is intentionally Sheet-only to show what I can do with just a sprea
   total_kpi.gif                                         # KPI card animation for total unemployed
   rate_line.gif                                         # line chart animation
   total_line.gif                                        # total unemployed trend animation
-  Youth_Unemployment_Data_Analysis_Phase_1_to_6.pdf     # full phase 1-6 report
+
+Youth_Unemployment_Data_Analysis_Phase_1_to_6.pdf     # full phase 1-6 report
 ```
 
 ---
@@ -180,7 +179,7 @@ The final Google Sheets dashboard includes:
 * Slicers for year and age group
 * A **key insights** text panel and analytical notes
 
-The PDF (`05_Share/Youth_Unemployment_Data_Analysis_Phase_1_to_6.pdf`) summarises:
+The PDF (`Youth_Unemployment_Data_Analysis_Phase_1_to_6.pdf`) summarises:
 
 * Executive summary for decision-makers
 * Key visuals with explanations
@@ -210,3 +209,4 @@ The PDF (`05_Share/Youth_Unemployment_Data_Analysis_Phase_1_to_6.pdf`) summarise
 * Organising data, documentation and visuals so others can reproduce the work
 
 * Using formulas (`YEAR`, `AVERAGEIF`, `AVERAGEIFS`) and pivot tables as a lightweight analytics stack
+
